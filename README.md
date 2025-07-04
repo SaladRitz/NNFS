@@ -1,2 +1,2 @@
-# NNFS
-Engineered a fully functional neural network from first principles using only Python and NumPy—without deep learning libraries like PyTorch or TensorFlow for image classification on MNIST dataset.
+# Neural Network From Scratch
+This project implements a neural network from scratch using only pure Python and NumPy—without relying on high-level libraries like PyTorch or TensorFlow. The project walks through the process of initializing weights and biases, forward propagation, computing loss (mean squared error), and backpropagation with gradient descent. The goal is to demystify how neural networks actually work under the hood by breaking down each mathematical step. It's ideal for learners who want to build foundational intuition before moving on to more abstracted frameworks.
